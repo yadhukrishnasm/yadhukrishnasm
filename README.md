@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science at CAS IHRD Calicut (Calicut University).
 - 💼 &nbsp; Actively looking for work.
 - 🌱 &nbsp; Learning more about 3D web designing and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Design and Learning Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Design, exploring and Learning as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
