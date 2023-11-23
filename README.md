@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://github.com/yadhukrishnasm/yadhukrishnasm/blob/main/Untitled-1.jpg">
 
 <h2> Hey there! I'm Yadhu krishna.</h2>
 
