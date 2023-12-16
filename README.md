@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science at CAS IHRD Calicut (Calicut University).
 - 💼 &nbsp; Actively looking for work.
 - 🌱 &nbsp; Learning more about 3D web designing and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Design, exploring and Learning as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Design, exploring and self improvement as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,15 +35,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
-
-<a href="https://github.com/yadhukrishnasm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadhukrishnasm&theme=buefy&show_icons=true" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadhukrishnasm&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
