@@ -4,9 +4,10 @@
 
 <h3>  &nbsp;About Me </h3>
 
--  &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+-  &nbsp; Connect with me on my socials to team up and talk.
+-  &nbsp; Working on a UI from a cool wireframe for an upcoming project.
 -  &nbsp; Studying Computer Science at CAS IHRD Calicut (Calicut University).
--  &nbsp; Currently learning more about 3D web designing and LLM (just curious about it).
+-  &nbsp; Currently learning Basics of machine learning.
 -  &nbsp; Designing, exploring and self improvement as hobbies/side hustles.
 
 <h3>  &nbsp;Good with</h3>
