@@ -1,4 +1,4 @@
-<img src="https://github.com/yadhukrishnasm/yadhukrishnasm/blob/main/LIFE.PNG">
+<img src="https://github.com/yadhukrishnasm/yadhukrishnasm/blob/main/LIFE.png">
 
 <h2> Hey there! I'm Yadhu krishna.</h2>
 
