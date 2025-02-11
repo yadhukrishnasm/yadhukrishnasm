@@ -38,6 +38,8 @@
 
 <h3>  &nbsp;Connect with Me </h3>
 
+[![Yadhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadhukrishnasm)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 <a href="https://github.com/yadhukrishnasm/github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-yadhukrishnasm.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/yadhu-krishna-657b8b20b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yadhu%20krishna-blue?style=flat-square&logo=linkedin"></a>
