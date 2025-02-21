@@ -1,4 +1,5 @@
-<img src="https://github.com/yadhukrishnasm/yadhukrishnasm/blob/main/time.png">
+<img src="![image](https://github.com/user-attachments/assets/4e420087-c372-4fba-b5c3-1c66dd75fa90)
+">
 
 <h2> Hey there! I'm Yadhu krishna.</h2>
 
