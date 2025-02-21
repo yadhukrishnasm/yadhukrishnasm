@@ -13,10 +13,10 @@
 <h3>  &nbsp;Good with</h3>
 
 -  &nbsp;
-  ![Typescript](https://img.shields.io/badge/-Java-333333?style=flat&logo=typescript&logoColor=007396)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=007396)
 -  &nbsp;
-  ![Next.js](https://img.shields.io/badge/-React-333333?style=flat&logo=next)
-  ![React native](https://img.shields.io/badge/-React-333333?style=flat&logo=reactnative)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next)
+  ![React native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 -  &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 -  &nbsp;
