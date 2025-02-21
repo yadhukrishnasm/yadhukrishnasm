@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/user-attachments/assets/4e420087-c372-4fba-b5c3-1c66dd75fa90)
+<img src="![image](https://i.pinimg.com/736x/e9/5b/b6/e95bb6f8d0c524c166d3a42c3a09c18f.jpg)
 ">
 
 <h2> Hey there! I'm Yadhu krishna.</h2>
