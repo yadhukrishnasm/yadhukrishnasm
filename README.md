@@ -1,4 +1,4 @@
-<img src="![image](https://i.pinimg.com/736x/e9/5b/b6/e95bb6f8d0c524c166d3a42c3a09c18f.jpg)
+<img src="![image](time.png)
 ">
 
 <h2> Hey there! I'm Yadhu krishna.</h2>
